@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Soy Juan Pablo Peñuela 👋</h1>
+<h1 align="center">Hola, Soy Juan Pablo 👋</h1>
 
 <img width="1774" height="887" alt="wallpaper_jp" src="https://github.com/user-attachments/assets/931e68b2-7ac1-4cd0-bd65-0473b5dfbe72" />
 
